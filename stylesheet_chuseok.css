@@ -67,7 +67,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;}
         .cat1-1 {
           font-family: 'Noto Sans KR', sans-serif;
               font-size: 17.5px;
-              font-weight: 500;
+              font-weight: 900;
               color: black;
             position: fixed;
             display: inline-block;
@@ -76,7 +76,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;}
             text-align: right;
               }
 
-        .cat1-2 {font-family: 'Noto Sans KR', sans-serif;font-weight: 700;
+        .cat1-2 {font-family: 'Noto Sans KR', sans-serif;font-weight: 900;
         color: black;
             font-size: 17.5px;
             font-weight: 500;
@@ -86,7 +86,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;}
             right:160px;
             text-align: right;
               }
-        .cat1-3 {font-family: 'Noto Sans KR', sans-serif;font-weight: 700;
+        .cat1-3 {font-family: 'Noto Sans KR', sans-serif;font-weight: 900;
         color: black;
             font-size: 17.5px;
             position: fixed;
@@ -97,7 +97,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;}
             text-align: right;
               }
 
-        .cat1-4 {font-family: 'Noto Sans KR', sans-serif;font-weight: 700;
+        .cat1-4 {font-family: 'Noto Sans KR', sans-serif;font-weight: 900;
         color: black;
             font-size: 17.5px;
             font-weight: 500;
