@@ -21,7 +21,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;
     .cat1 {display:inline-block; width: 30px; margin:10px;position:fixed;left:600px}
     .cat2 {display:inline-block; width:30%; margin:10px;position:fixed;left:650px}
     h4 {font-family: 'Noto Sans KR', sans-serif;
-        font-size: 13px;
+        font-size: 14px;
         line-height: 23px;
         font-weight: 500;
         color: black;
@@ -29,7 +29,7 @@ h1 {font-family: 'Noto Sans KR', sans-serif;
         position: fixed;
         top: 158px;
         left: 30px;
-        width: 185px;
+        width: 200px;
         overflow: scroll;
         }
 
