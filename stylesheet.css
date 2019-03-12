@@ -17,9 +17,9 @@ h1 {font-family: 'Noto Sans KR', sans-serif;
 
   .cat0, .cat1, .cat2 {
         color: white;}
-    .cat0 {display:inline-block; width: 30%; margin:10px;position:fixed;left:515px}
+    .cat0 {display:inline-block; width: 53px; margin:10px;position:fixed;left:515px}
     .cat1 {display:inline-block; width: 30px; margin:10px;position:fixed;left:600px}
-    .cat2 {display:inline-block; width:30%; margin:10px;position:fixed;left:650px}
+    .cat2 {display:inline-block; width:67px; margin:10px;position:fixed;left:650px}
     h4 {font-family: 'Noto Sans KR', sans-serif;
         font-size: 14px;
         line-height: 23px;
